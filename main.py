@@ -50,7 +50,7 @@ snake = Snake(0)
 x = 1
 y = 1
 
-field_size = 40
+field_size = 20
 
 def game_over(txt, score):
   print_con('')
