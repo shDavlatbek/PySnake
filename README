@@ -1,3 +1,5 @@
-Simple Snake game using Python
+##Simple Snake game using Python
 
-  python main.py
+```bash
+python main.py
+```
