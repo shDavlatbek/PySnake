@@ -1,5 +1,5 @@
 ###Simple Snake game using Python
 
-```bash
+`bash
 python main.py
-```
+`
